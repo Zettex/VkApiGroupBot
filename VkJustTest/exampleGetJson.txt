@@ -1,0 +1,99 @@
+{  
+   "type":"message_new",
+   "object":{  
+      "date":1551532791,
+      "from_id":139461387,
+      "id":30,
+      "out":0,
+      "peer_id":139461387,
+      "text":"/log",
+      "conversation_message_id":24,
+      "fwd_messages":[  
+
+      ],
+      "important":false,
+      "random_id":0,
+      "attachments":[  
+
+      ],
+      "is_hidden":false
+   },
+   "group_id":88781591
+},
+{  
+   "date":1551532791,
+   "from_id":139461387,
+   "id":30,
+   "out":0,
+   "peer_id":139461387,
+   "text":"/log",
+   "conversation_message_id":24,
+   "fwd_messages":[  
+
+   ],
+   "important":false,
+   "random_id":0,
+   "attachments":[  
+
+   ],
+   "is_hidden":false
+},
+{  
+   "UserId":null,
+   "from_id":139461387,
+   "peer_id":139461387,
+   "text":"/log",
+   "date":1551532791,
+   "payload":null,
+   "ReadState":null,
+   "out":false,
+   "Title":null,
+   "Body":null,
+   "geo":null,
+   "attachments":[  
+
+   ],
+   "fwd_messages":[  
+
+   ],
+   "Emoji":null,
+   "important":false,
+   "Deleted":null,
+   "random_id":0,
+   "ref":null,
+   "ref_source":null,
+   "reply_message":null,
+   "ChatId":null,
+   "ChatActive":[  
+
+   ],
+   "PushSettings":null,
+   "UsersCount":null,
+   "AdminId":null,
+   "action":null,
+   "ActionMid":null,
+   "ActionEmail":null,
+   "ActionText":null,
+   "Photo50":null,
+   "Photo100":null,
+   "Photo200":null,
+   "Keyboard":null,
+   "conversation_message_id":24,
+   "Type":0,
+   "Unread":0,
+   "PhotoPreviews":{  
+      "Photo50":null,
+      "Photo100":null,
+      "Photo130":null,
+      "Photo200":null,
+      "Photo400":null,
+      "PhotoMax":null,
+      "Photo":null
+   },
+   "InRead":null,
+   "OutRead":null,
+   "update_time":null,
+   "id":30,
+   "owner_id":null,
+   "access_key":null
+}
