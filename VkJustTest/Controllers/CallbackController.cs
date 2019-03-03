@@ -31,7 +31,7 @@ namespace VkJustTest.Controllers
             { "goodMan", new KeyboardBuilder().AddButton("Да", "goodMan").AddButton("Нет", "goodMan").Build() },
             { "respect", new KeyboardBuilder().AddButton("Да", "respect").AddButton("Нет", "respect").Build() },
         };
-
+        
         public CallbackController(IVkApi vkApi, IConfiguration configuration, UsersState usersState)
         {
             _vkApi = vkApi;
